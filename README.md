@@ -1,16 +1,7 @@
 
 <h1 align="center"><b>❤️ white queen  ❤️</b></h1>
 
- 
-(It is no longer based on this source code. The completely rewritten bot available now on telegram)
-
-## JUST ANOTHER MODIFIED UNMAINTAINED SOURCE CODE
 ### ⚠️ PLEASE NOTE EVERYONE MODIFY, DEPLOY OR FORK THIS SOURCE CODE
-#### This source code is unmaintained. We recommend you not to use this source code. Why Don't Use 👇
-- Not maintained
-- Older version of Daisy [NEW ONE CLOSED SOURCE]
-- Not compatible with latest updates of requirements
-
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
